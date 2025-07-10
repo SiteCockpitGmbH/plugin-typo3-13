@@ -1,0 +1,19 @@
+# customsubcategory=100=Settings
+# customsubcategory=110=SiteCockpit easyVision
+
+plugin.easyVision {
+  # cat=easyVision/100; type=boolean; label=LLL:EXT:scp_easyvision_typo3/Resources/Private/Language/locallang.xlf:settings.enabled
+  enabled = 1
+
+  # cat=easyVision/100; type=string; label=LLL:EXT:scp_easyvision_typo3/Resources/Private/Language/locallang.xlf:settings.integrationKey
+  integrationKey = 
+
+  # cat=easyVision/110; type=string; label=LLL:EXT:scp_easyvision_typo3/Resources/Private/Language/locallang.xlf:settings.manufacturer
+  manufacturer = https://www.sitecockpit.com
+
+  # cat=easyVision/110; type=string; label=LLL:EXT:scp_easyvision_typo3/Resources/Private/Language/locallang.xlf:settings.documentation
+  documentation = https://www.sitecockpit.com/redirect/docs-easyvision-typo3
+
+  # cat=easyVision/110; type=string; label=LLL:EXT:scp_easyvision_typo3/Resources/Private/Language/locallang.xlf:settings.help
+  help.en = https://www.sitecockpit.com/redirect/support-en
+}

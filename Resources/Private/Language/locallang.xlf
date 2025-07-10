@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2025-07-09T09:11:39Z"
+          product-name="scp_easyvision_typo3">
+        <header/>
+        <body>
+
+            <trans-unit id="settings.enabled">
+                <source>Enable easyVision</source>
+            </trans-unit>
+            <trans-unit id="settings.integrationKey">
+                <source>Integration Key: Enter your integration key from the SiteCockpit backend here</source>
+            </trans-unit>
+            <trans-unit id="settings.manufacturer">
+                <source>Manufacturer</source>
+            </trans-unit>
+            <trans-unit id="settings.documentation">
+                <source>Documentation</source>
+            </trans-unit>
+            <trans-unit id="settings.help">
+                <source>Help &amp; Support</source>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>
