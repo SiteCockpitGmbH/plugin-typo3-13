@@ -2,6 +2,7 @@
     "name": "sitecockpit/easy-vision-typo3",
     "description": "tbd",
     "type": "typo3-cms-extension",
+    "homepage": "https://www.sitecockpit.com",
     "license": [
         "GPL-2.0-or-later"
     ],
