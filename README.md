@@ -52,7 +52,7 @@ Login to your Typo3 Admin
 
 Navigate to Typoscript > Your root site > Constant Editor > easyvision
 
-Input your intergration key from SiteCockpit backend
+Input your integration key from SiteCockpit backend
 
 ## Manufacturer
 https://www.sitecockpit.com/
