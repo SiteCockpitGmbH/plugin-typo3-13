@@ -4,7 +4,7 @@
     "type": "typo3-cms-extension",
     "homepage": "https://www.sitecockpit.com",
     "license": [
-        "GPL-2.0-or-later"
+        "proprietary"
     ],
     "require": {
         "typo3/cms-core": "^13.0"

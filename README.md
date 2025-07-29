@@ -50,7 +50,7 @@ Then tell Composer to load the plugin:
 
 Login to your Typo3 Admin
 
-Navigate to Typoscript > Your root site > Constant Editor > easyvision
+Navigate to Typoscript > Your root site > Constant Editor > easyVision by SiteCockpit
 
 Input your integration key from SiteCockpit backend
 

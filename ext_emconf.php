@@ -1,7 +1,7 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'easyVision',
+    'title' => 'easyVision by SiteCockpit',
     'description' => 'Integrate SiteCockpit into TYPO3: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!',
     'constraints' => [
         'depends' => [
