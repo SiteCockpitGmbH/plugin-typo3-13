@@ -2,23 +2,29 @@
 
 SiteCockpit is a digital accessibility platform developed in Germany that supports companies, authorities, and organizations in making their websites legally compliant, user-friendly and inclusive. Against the backdrop of the Barrierefreiheitsstärkungsgesetz (BFSG), which will impose obligations on numerous operators of digital offerings from June 28, 2025, SiteCockpit offers practical and immediately applicable solutions for implementing the legal requirements.
 
-The modular system includes:
+With the easyVision widget, visitors can customize your website to suit their own needs—thanks to preconfigured profiles such as ADHD, dyslexia, or visual impairment.
 
-- easyVision: a customizable front-end widget for users with different restrictions
+Improved usability with the easyVision widget through:
 
-- easyMonitoring: an automated testing and reporting tool for accessibility analysis in accordance with WCAG standards
+- Disabling animations
 
-- easyStatement: a generator for legally compliant accessibility declarations
+- Changing the mouse pointer
 
-The product portfolio is complemented by individual audits, practical workshops and webinars that appeal to decision-makers, developers and editorial teams alike.
+- Text spacing
+
+- Adjusting line spacing
+
+- Contrast
+
+- Dyslexia-friendly
+
+- Showing/hiding images
+
+- and much more
 
 SiteCockpit is aimed at small and medium-sized companies as well as corporations, public institutions and non-profit organizations. All products are GDPR-compliant and meet European accessibility standards. The aim is to enable digital participation for everyone: efficiently, scalably and with real added value for operators and visitors alike.
 
-
-
 Further information can be found at: http://www.sitecockpit.com 
-
-
 
 **Why SiteCockpit?**
 

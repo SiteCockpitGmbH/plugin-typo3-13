@@ -1,6 +1,6 @@
 {
     "name": "sitecockpit/easy-vision-typo3",
-    "description": "Integrate SiteCockpit into TYPO3: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!",
+    "description": "Integrate SiteCockpit into TYPO3: With SiteCockpit’s easyVision, your visitors can customize the website to their needs—for more accessibility and a better user experience. Integration takes just a few minutes!",
     "type": "typo3-cms-extension",
     "homepage": "https://www.sitecockpit.com",
     "license": [

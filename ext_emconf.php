@@ -2,7 +2,7 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'easyVision by SiteCockpit',
-    'description' => 'Integrate SiteCockpit into TYPO3: automated accessibility monitoring, frontend widget & legally compliant accessibility declaration. Integration takes just a few minutes!',
+    'description' => 'Integrate SiteCockpit into TYPO3: With SiteCockpit’s easyVision, your visitors can customize the website to their needs—for more accessibility and a better user experience. Integration takes just a few minutes!',
     'constraints' => [
         'depends' => [
             'typo3' => '13.0.0-13.4.99',
@@ -14,4 +14,5 @@ $EM_CONF[$_EXTKEY] = [
         ],
     ],
     'clearCacheOnLoad' => 1,
+    'version' => '1.0.0',
 ];
